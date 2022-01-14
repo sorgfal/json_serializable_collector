@@ -1,5 +1,6 @@
 name: json_serializable_collector
-description: This bad code will help you improve your life. I wrote as best as I could. If you know how to write this utility better - write. Criticism is unacceptable. PRs are welcome.
+description: This bad code will help you improve your life. I wrote as best as I could. If you know how to write this utility better - write. Criticism is unacceptable. PRs are welcome. 
+repository: https://github.com/sorgfal/json_serializable_collector
 version: 1.0.0
 
 # homepage: https://www.example.com
